@@ -1,0 +1,11 @@
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\bin\Debug\LoadFlow.exe.config
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\obj\x86\Debug\LoadFlow.csprojResolveAssemblyReference.cache
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\obj\x86\Debug\LoadFlow.Properties.Resources.resources
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\obj\x86\Debug\LoadFlow.csproj.GenerateResource.Cache
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\bin\Debug\LoadFlow.exe
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\bin\Debug\LoadFlow.pdb
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\bin\Debug\MathNet.Numerics.dll
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\bin\Debug\MathNet.Numerics.xml
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\obj\x86\Debug\LoadFlow.exe
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\obj\x86\Debug\LoadFlow.pdb
+D:\SOFTWARE DEVELOPMENT\LoadFlow\LoadFlow\obj\x86\Debug\LoadFlow.Form1.resources
